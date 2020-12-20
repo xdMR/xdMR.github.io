@@ -3,14 +3,10 @@
 Please find me on [promiger.com](https://promiger.com) or [stellarlanding.com](https://stellarlanding.com)
 
 
+# Setup
 
-
-Shortcut that moves coursor to end of line in VSC
+###Shortcut that moves coursor to end of line in VSC
 I use keybiding "Ctrl + ;"
-
-
-#Setup
-
 Go To File > Preferences > Keyboard Shortcuts
 Search for "cursorLineEnd"
 Set Keybiding "Ctrl + ;" and press enter
