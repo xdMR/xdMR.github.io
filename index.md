@@ -5,14 +5,14 @@ Please find me on [promiger.com](https://promiger.com) or [stellarlanding.com](h
 
 # Setup
 
-###Shortcut that moves coursor to end of line in VSC
-I use keybiding "Ctrl + ;"
+### Shortcut that moves coursor to end of line in VSC
+I use keybiding  ``` Ctrl + ; ```
 Go To File > Preferences > Keyboard Shortcuts
 Search for "cursorLineEnd"
 Set Keybiding "Ctrl + ;" and press enter
 
 
-Theme I'm using 
+#### Theme I'm using 
 Name: Night Owl
 Id: sdras.night-owl
 Description: A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
@@ -21,8 +21,8 @@ Publisher: sarah.drasner
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
 
 
-Other extensions I'm using in order of importance
-Name: Live Server
+### Other VSC plugins 
+#### Name: Live Server
 Id: ritwickdey.liveserver
 Description: Launch a development local Server with live reload feature for static & dynamic pages
 Version: 5.6.1
@@ -30,7 +30,7 @@ Publisher: Ritwick Dey
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 
-Name: ESLint
+#### Name: ESLint
 Id: dbaeumer.vscode-eslint
 Description: Integrates ESLint JavaScript into VS Code.
 Version: 2.1.14
@@ -38,7 +38,7 @@ Publisher: Dirk Baeumer
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
 
-Name: GitLens — Git supercharged
+#### Name: GitLens — Git supercharged
 Id: eamodio.gitlens
 Description: Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 Version: 11.0.6
@@ -46,7 +46,7 @@ Publisher: Eric Amodio
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 
-Name: Bracket Pair Colorizer
+#### Name: Bracket Pair Colorizer
 Id: coenraads.bracket-pair-colorizer
 Description: A customizable extension for colorizing matching brackets
 Version: 1.0.61
