@@ -64,6 +64,13 @@ Version: 0.26.2
 Publisher: Kiss Tamás
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
 
+#### Name: Simple React Snippets
+Id: burkeholland.simple-react-snippets
+Description: Dead simple React snippets you will actually use
+Version: 1.2.3
+Publisher: Burke Holland
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
+
 
 
 ```markdown
