@@ -57,6 +57,13 @@ Version: 1.0.61
 Publisher: CoenraadS
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 
+#### Name: Image preview
+Id: kisstkondoros.vscode-gutter-preview
+Description: Shows image preview in the gutter and on hover
+Version: 0.26.2
+Publisher: Kiss Tamás
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview
+
 
 
 ```markdown
