@@ -78,6 +78,17 @@ Version: 3.1.0
 Publisher: dsznajder
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
+## Terminal Setup
+  * Install iTerm2
+  * add Profiles for ssh access with passwords 
+  * Install Oh My Zsh https://ohmyz.sh/
+  * Power10k Theme
+ Install  power10k manually
+
+```git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc 
+```
+
+
 
 
 ```markdown
