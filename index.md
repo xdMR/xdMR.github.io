@@ -79,8 +79,10 @@ Publisher: dsznajder
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
 ## Terminal Setup
+(https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/)
   * Install iTerm2
   * add Profiles for ssh access with passwords 
+  * Switch Mac to ZSH
   * Install Oh My Zsh https://ohmyz.sh/
   * Power10k Theme
  Install  power10k manually
