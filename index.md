@@ -85,9 +85,9 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajd
   * Power10k Theme
  Install  power10k manually
 
-```git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc 
+```markdown
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc 
 ```
-
 
 
 
